@@ -3,16 +3,16 @@ A youtube video, audio, playlist and thumbnail downloader
 
 To get started, run the following commands:
 
-Optional: \n
-Instantiate a python virtual environment \n
+Optional:
+Instantiate a python virtual environment
 `py -m venv venv`
 
-Optional: \n
-Start the environment \n
+Optional:
+Start the environment
 `./venv/Scripts/activate`
 
-Install all required modules \n
+Install all required modules
 `pip install -r ./src/requirements.txt`
 
-Run the program \n
+Run the program 
 `py ./src/main.py`
