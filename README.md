@@ -1,6 +1,8 @@
 # ProotzyDownloader
 A youtube video, audio, playlist and thumbnail downloader
 
+Credits for the application icon: https://www.reddit.com/user/Kim_orange/
+
 To get started, run the following commands:
 
 Optional:
